@@ -5,10 +5,10 @@ let botol = global.wm
 let str = `
 ✧─────[ *Group Official* ]─────✧
 🍀 Group 1 :
-https://chat.whatsapp.com/I0prmYcZhKrCye0kiclzyt
+https://linktr.ee/fin222
 
-🍀 Youtube :
-https://www.tiktok.com/@maxxy_0t
+🍀 Tiktok :
+https://www.tiktok.com/@alvin_ch1
 ✧──────────···──────────✧
 `.trim()
 conn.sendButton(m.chat, str, `${botol}`, [['⋮☰ MENU','.menu']],m)
