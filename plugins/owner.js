@@ -39,22 +39,22 @@ let handler = async(m, { conn, text, usedPrefix, command }) => {
     const detek = Math.floor( Kurang % (1000 * 60) / 1000)
 let cap = `Hay kak @${await m.sender.split('@')[0]}, itu nomor ownerku jangan dispam yah ^_^` 
   let buttonMessage= {
-'document':{'url':'https://youtube.com/channel/UC1oSMQCd3XKVxYwSh4RE2Nw'},
+'document':{'url':'https://linktr.ee/fin222'},
 'mimetype':global.ddocx,
-'fileName':'「 RullSenpai 」',
+'fileName':'「 Fin Ofc 」',
 'fileLength':fsizedoc,
 'pageCount':fpagedoc,
 'contextInfo':{
 'forwardingScore':555,
 'isForwarded':true,
 'externalAdReply':{
-'mediaUrl':'https://bit.ly/3eggcxd',
+'mediaUrl':'https://linktr.ee/fin222',
 'mediaType':2,
 'previewType':'pdf',
 'title':`💌 Ultah Owner: ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik`,
 'body':`By KhrlMstfa`,
 'thumbnail': await(await fetch(thumb)).buffer(),
-'sourceUrl':'https://youtube.com/channel/UC1oSMQCd3XKVxYwSh4RE2Nw'}},
+'sourceUrl':'https://instagram.com/al_vin.233'}},
 'caption':cap,
 'footer':`Itu Owner Ku Yah Kak Jangan Sungkan Untuk Chat ;3
 
