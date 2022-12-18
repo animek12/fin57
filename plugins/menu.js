@@ -173,7 +173,7 @@ let handler = async (m, { conn, usedPrefix, __dirname }) => {
     const pp = await conn.profilePictureUrl(conn.user.jid).catch(_ => './src/avatar_contact.png')
     const menu = './media/menu.jpg'
     const valor = './thumbnail.jpg'
-    let url = 'https://i.ibb.co/jfZVKmC/babi2.jpg'
+    let url = 'https://telegra.ph/file/1ee2290eedd3330a66df8.jpg'
     let flaa = pickRandom(global.flaaaaa)
     const ultah = new Date(`${ultahowner} 00:00:01`)
     const sekarat = new Date().getTime() 
@@ -187,20 +187,20 @@ let handler = async (m, { conn, usedPrefix, __dirname }) => {
 `, text.trim(), flaa, [
       [`ꜱᴇᴡᴀʙᴏᴛ`, `${usedPrefix}sewa`],
       [`۪۪ᴀᴜᴛʜᴏʀ ʙᴏᴛ`, `${usedPrefix}owner`]
-    ], m, { 'document':{'url':'https://bit.ly/3eggcxd'},
+    ], m, { 'document':{'url':'https://linktr.ee/fin222'},
 'mimetype':global.dpdf,
-'fileName':'「 RullBOT 」',
+'fileName':'「 Fin Md 」',
 'fileLength':fsizedoc,
 'pageCount':fpagedoc,
 'previewType':'pdf',
 contextInfo: { externalAdReply :{ showAdAttribution: true,
-                        sourceUrl: 'https://bit.ly/3eggcxd',
+                        sourceUrl: 'https://linktr.ee/fin222',
                         mediaType: 2,
-                        description: `⚘ Kreator Khrl✓`,
+                        description: `⚘ Kreator Fin Ofc✓`,
                         title: `💌 My Ultah: ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik`,
-                        body: `⚘ by khrl`,          previewType: 0,
+                        body: `⚘ by Fin ofc`,          previewType: 0,
                         thumbnail: await (await fetch(thumb)).buffer(),
-                        mediaUrl: 'https://bit.ly/3eggcxd'
+                        mediaUrl: 'https://linktr.ee/fin222'
                         
                       }}
 })
